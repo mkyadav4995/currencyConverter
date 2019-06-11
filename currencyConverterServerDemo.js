@@ -29,6 +29,9 @@ let convert=function(convertFrom,amount,convertTo){
     });
 }
 
+
+console.log('mkyadav');
+
 app.use(bodyParser.urlencoded({ extended: false }));   
 app.post('/convert', function (req, res) {
     convert(req.body.cf,req.body.amt,req.body.ct).then(function(resultFromShowDetails){
