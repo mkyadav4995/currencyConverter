@@ -1,2 +1,2 @@
 # currencyConverter
-it convert currency
+it convert currency like indian to pakistan
