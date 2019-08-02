@@ -110,7 +110,7 @@
         ]
       }
     ],
-    "models": {
+    "moasdels": {
         "id": "Order",
         "properties": {
           "id": {
@@ -120,7 +120,7 @@
           "petId": {
             "type": "integer",
           },
-          "quantity": {
+          "quantity": {smdbjui
             "type": "integer",
             "format": "int32"
 asdfffedf
